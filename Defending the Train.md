@@ -4,7 +4,7 @@ In order to do this, players must use the giant [[cannon]] that is hooked up to 
 
 ## Enemies
 The main enemy in One Way Express are train robbers. Train robbers come in many different types! Here are a few examples of enemy types and their behaviors:
-- Train Robber (Horse Rider) - Horse Riders will run alongside the train (left and right). Their sole goal is to plant TNT onto the track. After placing TNT, they will run off the screen. TNT that is place onto the track must be destroyed or else players will take damage. *In the case of this not being feasible, horse riders will simply throw TNT after a designated amount of time*
+- Train Robber (Horse Rider) - Horse Riders will run alongside the train (left and right). Their sole goal is to run along the train until they reach the "throw zone". Once they reach this zone they will start throwing TNT behind them towards the train. Horse riders can stack up to a total of 8 on each side (changes depending on zone). ![[HorseRider 1.png]]
 - Vultures (Flying enemy) - Vultures fly above the train and go from left to right. They drop 
 
 ## Obstacles
