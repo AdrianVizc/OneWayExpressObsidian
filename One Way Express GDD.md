@@ -9,7 +9,7 @@ The core gameplay loop, systems, and mechanics for One Way Express can be found 
 ## [[Game Art]]
 Inspiration, art direction, and necessary/required assets can be found here. 
 
-## [[Story]]
+## [[Story Overview]]
 A general rundown of the overarching story and possible tie ins with game mechanics can be found throughout this page.
 
 ## [[Audio]]
