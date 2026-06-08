@@ -1,9 +1,18 @@
 {
 	"nodes":[
-		{"id":"6685189b18c32cd2","type":"text","text":"Start Game","x":-80,"y":-940,"width":250,"height":60,"color":"1"},
-		{"id":"7ed4d7ba56eea982","type":"text","text":"End Game","x":-80,"y":-740,"width":250,"height":60,"color":"5"}
+		{"id":"6685189b18c32cd2","type":"text","text":"[[New Level]]","x":-60,"y":-1380,"width":250,"height":60,"color":"1"},
+		{"id":"1822f88017cccb32","type":"text","text":"[[Depot Zones]]","x":-60,"y":-1020,"width":250,"height":55,"color":"3"},
+		{"id":"fb8a2c0566500187","type":"text","text":"[[Defending the Train]]","x":-260,"y":-1208,"width":250,"height":60,"color":"2"},
+		{"id":"4e23ad47aaa232c6","type":"text","text":"[[Repairs]]","x":120,"y":-1208,"width":250,"height":60,"color":"4"},
+		{"id":"04c0bf923bc709db","type":"text","text":"[[New Level]]","x":-60,"y":-860,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
-		{"id":"3b592a9281e3b9d2","fromNode":"6685189b18c32cd2","fromSide":"bottom","toNode":"7ed4d7ba56eea982","toSide":"top"}
+		{"id":"23082bfaf3d0b779","fromNode":"6685189b18c32cd2","fromSide":"bottom","toNode":"fb8a2c0566500187","toSide":"top"},
+		{"id":"bc257f5031d175b9","fromNode":"6685189b18c32cd2","fromSide":"bottom","toNode":"4e23ad47aaa232c6","toSide":"top"},
+		{"id":"cd1d77d292334721","fromNode":"fb8a2c0566500187","fromSide":"right","toNode":"4e23ad47aaa232c6","toSide":"left"},
+		{"id":"271ced501c3ec8d4","fromNode":"4e23ad47aaa232c6","fromSide":"left","toNode":"fb8a2c0566500187","toSide":"right"},
+		{"id":"2791206ee221ff3c","fromNode":"fb8a2c0566500187","fromSide":"bottom","toNode":"1822f88017cccb32","toSide":"top"},
+		{"id":"cdef7ec334ec17a1","fromNode":"4e23ad47aaa232c6","fromSide":"bottom","toNode":"1822f88017cccb32","toSide":"top"},
+		{"id":"eb0da28ba1a7ad84","fromNode":"1822f88017cccb32","fromSide":"bottom","toNode":"04c0bf923bc709db","toSide":"top"}
 	]
 }

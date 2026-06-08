@@ -7,5 +7,7 @@ One Way Express is centered around two main mechanics:
 - [[Repairs]]
 Players must balance between defending the train and making sure their train is repaired and not broken beyond repair.
 
-The core game play loop:
- ![[Game Play Loop.canvas]] 
+The core game play loop: **Click for details**
+ ![[Game Play Loop.canvas]] Some important links to other pages included in gameplay loop:
+ - [[Depot Zones]]
+ - [[New Level]] 
