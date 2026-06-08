@@ -3,7 +3,7 @@ Welcome to the One Way Express GDD! This document will hold all of the details, 
 ## [[Brainstorming]]
 This is where potential ideas and miscellaneous ideas can be found. These ideas are not set in stone, but can be expanded upon in the future if scope allows.
 
-## [[Systems/Mechanics]]
+## [[Systems and Mechanics]]
 The core gameplay loop, systems, and mechanics for One Way Express can be found here. 
 
 ## [[Game Art]]

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6685189b18c32cd2","type":"text","text":"Start Game","x":-80,"y":-940,"width":250,"height":60,"color":"1"},
+		{"id":"7ed4d7ba56eea982","type":"text","text":"End Game","x":-80,"y":-740,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"3b592a9281e3b9d2","fromNode":"6685189b18c32cd2","fromSide":"bottom","toNode":"7ed4d7ba56eea982","toSide":"top"}
+	]
+}
