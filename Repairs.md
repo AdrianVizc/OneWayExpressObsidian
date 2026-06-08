@@ -3,5 +3,8 @@ In One Way Express repairs are the second interaction that players must balance 
 Some other examples could be the barriers in COD Zombies.
 
 # Switching POVs
-As mentioned before, the POVs of the defense and repair modes can be switched to and from. 
+As mentioned before, the POVs of the defense and repair modes can be switched to and from. Players can switch to the Repair POV with a designated hotkey. The repair zone is a 3d render of the inside of a train. To go back to the cannon POV, players must walk back to the big red button in the train car. Pressing a hotkey on the button will send them back into the defense POV.
+
+# Repair mechanic
+Players consume repair boards, a limited resource, whenever they repair a damage zone. Damage zones appear randomly on the train after the train has taken damage from an outside attack.
 
