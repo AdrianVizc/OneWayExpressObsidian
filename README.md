@@ -1,11 +1,3 @@
 # OneWayExpressObsidian
 
 I hope this works...
-
-![[320px-ST_Lost_Woods.png]]
-<<<<<<< HEAD
-
-=======
-=======
->>>>>>> origin/main
-by Dylan, Adrian, and Jack
