@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"6685189b18c32cd2","type":"text","text":"[[New Level]]","x":-60,"y":-1380,"width":250,"height":60,"color":"1"},
 		{"id":"1822f88017cccb32","type":"text","text":"[[Depot Zones]]","x":-60,"y":-1020,"width":250,"height":55,"color":"3"},
-		{"id":"fb8a2c0566500187","type":"text","text":"[[Defending the Train]]","x":-260,"y":-1208,"width":250,"height":60,"color":"2"},
 		{"id":"4e23ad47aaa232c6","type":"text","text":"[[Repairs]]","x":120,"y":-1208,"width":250,"height":60,"color":"4"},
-		{"id":"04c0bf923bc709db","type":"text","text":"[[New Level]]","x":-60,"y":-860,"width":250,"height":60,"color":"1"}
+		{"id":"04c0bf923bc709db","type":"text","text":"[[New Level]]","x":-60,"y":-860,"width":250,"height":60,"color":"1"},
+		{"id":"fb8a2c0566500187","type":"text","text":"[[Defending the Train]]","x":-240,"y":-1208,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"23082bfaf3d0b779","fromNode":"6685189b18c32cd2","fromSide":"bottom","toNode":"fb8a2c0566500187","toSide":"top"},
