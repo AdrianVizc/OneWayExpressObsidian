@@ -1,10 +1,5 @@
 # OneWayExpressObsidian
 
-This is a test
-<<<<<<< HEAD
+I hope this works...
 
-I am making changes
- 
-=======
- This is a second test
->>>>>>> origin/main
+![[320px-ST_Lost_Woods.png]]
