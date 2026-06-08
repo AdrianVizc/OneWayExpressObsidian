@@ -10,7 +10,8 @@ Players must balance between defending the train and making sure their train is 
 The core game play loop: **Click for details**
  ![[Game Play Loop.canvas]] Some important links to other pages included in gameplay loop:
  - [[Depot Zones]]
- - [[New Level]] 
+ - [[Defending the Train]]
+ - [[Repairs]]
 
 ## Progression
 As the One Way Express goes through [[Depot Zones]], the frequency and ratio of different enemy types and objects will change. This is because different rival gangs/bandits control different territory.
@@ -25,7 +26,7 @@ This section of the game will include mostly vultures, and the occasional train 
 
 ## Depot Zone 3 -> Depot Zone 4
 Trigger Happy Tyson:
-The section of the game contains the most notorious and dubious leader of them all: Trigger Happy Tyson. He united the One-Eyeds and the Vultures, and now...they're all after you. Fight off  the robbers, the vultures, and the destroying ensuing TNT ahead. Good luck.
+This section of the game contains the most notorious and dubious leader of them all: Trigger Happy Tyson. He united the One-Eyeds and the Vultures, and now...they're all after you. Fight off the robbers, the vultures, and the destroying the TNT ahead. Good luck.
 
 ## Depot Zone 4 -> End of Game
 The End:

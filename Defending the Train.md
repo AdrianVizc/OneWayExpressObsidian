@@ -14,4 +14,4 @@ The main obstacle in the game that players will run into is TNT barrels/crate st
 ## Environmental Hazards
 - Forks in the road - Players must shoot direction posts to choose to go left or right
 ## Easter egg
- Brandon's trash can. A targetable trash can that can be found somewhere in the game. Shooting it grants (TBD)
+ Brandon's trash can. A targetable trash can that can be found somewhere in the game. Shooting it does a screen wipe.
