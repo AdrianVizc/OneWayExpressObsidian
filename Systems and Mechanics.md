@@ -25,7 +25,7 @@ The Vulture:
 This section of the game will include mostly vultures, and the occasional train robber. Might include TNT on the Road
 
 ## Depot Zone 3 -> Depot Zone 4
-Trigger Happy Tyson:
+Trigger-Happy Tyson:
 This section of the game contains the most notorious and dubious leader of them all: Trigger Happy Tyson. He united the One-Eyeds and the Vultures, and now...they're all after you. Fight off the robbers, the vultures, and the destroying the TNT ahead. Good luck.
 
 ## Depot Zone 4 -> End of Game
