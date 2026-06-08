@@ -5,3 +5,6 @@ Players will use the cannon to shoot into Depot Zones. This will load cargo into
 
 ## Repair Boards
 As you pass by the Depot Zones, players will get (x) amount of Repair Boards back. There are used in [[Repairs]].
+
+## Newspaper/Wanted Poster
+After reaching a Depot Zone, a Newspaper clipping/Wanted Poster will show on the screen of the most recent "gang leader" you have defeated/passed.
