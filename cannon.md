@@ -1,0 +1,3 @@
+![[Cannon.png]]
+
+The cannon is the main, and possibly only, interaction that players will have to defend the train. The cannon moves on a swivel relative the player's mouse. If the cannon is not fully rotated to where the player's crosshair/mouse is, then the crosshair will be greyed out and the player can not shoot.  
