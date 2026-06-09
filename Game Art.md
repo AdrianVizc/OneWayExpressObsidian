@@ -11,3 +11,12 @@ Jacks' wacky Shack
 
 Depot Station
 ![[Pasted image 20260608213513.png]]
+
+
+**Enemy inspo**
+Boom boom horse
+![[Pasted image 20260608203318.png]]
+
+Enemy Inspo
+![[Pasted image 20260608211508.png]]
+![[Pasted image 20260608220237.png]]
