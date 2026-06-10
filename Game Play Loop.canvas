@@ -4,7 +4,8 @@
 		{"id":"1822f88017cccb32","type":"text","text":"[[Depot Zones]]","x":-60,"y":-1020,"width":250,"height":55,"color":"3"},
 		{"id":"4e23ad47aaa232c6","type":"text","text":"[[Repairs]]","x":120,"y":-1208,"width":250,"height":60,"color":"4"},
 		{"id":"04c0bf923bc709db","type":"text","text":"[[End Game]]","x":-60,"y":-860,"width":250,"height":60,"color":"1"},
-		{"id":"fb8a2c0566500187","type":"text","text":"[[Defending the Train]]","x":-240,"y":-1208,"width":250,"height":60,"color":"2"}
+		{"id":"fb8a2c0566500187","type":"text","text":"[[Defending the Train]]","x":-240,"y":-1208,"width":250,"height":60,"color":"2"},
+		{"id":"fc6ce6db1de006ac","x":-60,"y":-1520,"width":250,"height":60,"type":"text","text":"Tutorial\n"}
 	],
 	"edges":[
 		{"id":"23082bfaf3d0b779","fromNode":"6685189b18c32cd2","fromSide":"bottom","toNode":"fb8a2c0566500187","toSide":"top"},
@@ -14,6 +15,7 @@
 		{"id":"2791206ee221ff3c","fromNode":"fb8a2c0566500187","fromSide":"bottom","toNode":"1822f88017cccb32","toSide":"top"},
 		{"id":"cdef7ec334ec17a1","fromNode":"4e23ad47aaa232c6","fromSide":"bottom","toNode":"1822f88017cccb32","toSide":"top"},
 		{"id":"eb0da28ba1a7ad84","fromNode":"1822f88017cccb32","fromSide":"bottom","toNode":"04c0bf923bc709db","toSide":"top"},
-		{"id":"32bb4c6983125528","fromNode":"1822f88017cccb32","fromSide":"left","toNode":"6685189b18c32cd2","toSide":"left"}
+		{"id":"32bb4c6983125528","fromNode":"1822f88017cccb32","fromSide":"left","toNode":"6685189b18c32cd2","toSide":"left"},
+		{"id":"e9cfad47febb41fd","fromNode":"fc6ce6db1de006ac","fromSide":"bottom","toNode":"6685189b18c32cd2","toSide":"top"}
 	]
 }

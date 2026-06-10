@@ -16,12 +16,19 @@ The core game play loop: **Click for details**
 ## Progression
 As the One Way Express goes through [[Depot Zones]], the frequency and ratio of different enemy types and objects will change. This is because different rival gangs/bandits control different territory.
 
-## Beginning -> Depot Zone 1
+## Tutorial -> Start Game
+Introduces the two main mechanics:
+1. Shooting the Cannon
+2. Repair System
+
+Tutorial -> Train Robber spawns and runs up -> Throws TNT -> Shoot him and Kill -> Head to Repair Room -> Repair the damage -> Cannon POV
+
+## Start Game -> Depot Zone 1
 One-Eyed Billy:
 This section of the game will include mostly train robbers and the occasional TNT on the road.
 
 ## Depot Zone 2 -> Depot Zone 3
-The Vulture:
+Villainous Vulturuous:
 This section of the game will include mostly vultures, and the occasional train robber. Might include TNT on the Road
 
 ## Depot Zone 3 -> Depot Zone 4
