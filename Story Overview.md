@@ -157,6 +157,10 @@ Dispatcher: ...and that's to deliver cargo. So even though, this is farewell, ju
 Dispatcher: I... I never told anyone that before...
 Trigger-Happy Tyson: YEEEHAWWWEEEE. IT'S THE TRIGGER-HAPPY TYSON SHOW.
 Trigger-Happy Tyson: AND YOU GOT A FRONT ROW SEAT. TIME FOR THE GRAND FINALE!
+Dispatcher: It's a terrible day for rain...
+Trigger-Happy Tyson: EHHH? BUT IT'S NOT RAININ'?
+Dispatcher: Yes... It is.
+Dispatcher: Thanks for riding...the One Way Express.
 
 When a hole opens up:
 Trigger-Happy Tyson: Now, that's what I call damage!
