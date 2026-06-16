@@ -56,7 +56,7 @@ One-Eyed Billy: I think I'll name it...the One-Eyed Express!
 Dispatcher: Now that's just a terrible idea...
 One-Eyed Billy: Blind Bandits, get 'em and all the cargo aboard! YEEHAW!
 Dispatcher: Let 'em try, they won't see it comin'.
-### One-Eyed Billy Random Lines:
+
 When a hole opens up:
 One-Eyed Billy: More! More! More!
 One-Eyed Billy: Don't do too much damage! This train'll be mine soon!
@@ -80,7 +80,7 @@ One-Eyed Billy: I think I'll name it...the One-Eyed Express!
 Dispatcher: Now that's just a terrible idea...
 One-Eyed Billy: Blind Bandits, get 'em and all the cargo aboard! YEEHAW!
 Dispatcher: Let 'em try, they won't see it comin'.
-### One-Eyed Billy Random Lines:
+
 When a hole opens up:
 One-Eyed Billy: More! More! More!
 One-Eyed Billy: Don't do too much damage! This train'll be mine soon!
@@ -118,6 +118,7 @@ Dispatcher: KABOOM!
 Dispatcher: Bullseyes!
 Dispatcher: I was always scared of birds growin' up...
 Dispatcher: Two birds with one stone...err...cannon ball.
+### Depot Zone 1 - Depot Zone 2 End
 ## Depot Zone 2 - Depot Zone 3
 *Trigger-Happy Tyson Wanted Poster Shows*
 Dispatcher: *gulp* D-did you see that? That's Trigger-Happy T-t-Tyson...
@@ -146,6 +147,7 @@ One-Eyed Billy: I will avenge you, One-Eyed Tilly!
 Trigger-Happy Tyson: I think one of yer vultures hit my guy!
 Trigger-Happy Tyson: Now, no one told me they'd have a cannon!
 One-Eyed Billy: If I lose one more eye... Well, I'd be blind.
+### Depot Zone 2 - Depot Zone 3 End
 ## Depot Zone 3 - End of Game
 *Newspaper clipping of the bridge blowing up*
 Dispatcher: That crazy son of a--
@@ -175,6 +177,7 @@ Trigger-Happy Tyson: I think one of yer vultures hit my guy!
 Trigger-Happy Tyson: Now, no one told me they'd have a cannon!
 One-Eyed Billy: If I lose one more eye... Well, I'd be blind.
 *Newspaper clipping of suspended operations of the One Way Express*
+### Depot Zone 3 - End of Game End
 ## If player enters repair room for the first time (if no tutorial):
 Dispatcher: *Flex* your "WASD" keys to walk around. See any holes in the wall?
 Dispatcher: If so, let's make this cabin, "hole" again, if you catch my drift.
