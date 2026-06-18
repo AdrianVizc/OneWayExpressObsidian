@@ -12,10 +12,10 @@ Dispatcher: You prolly got questions, but look no further...
 Dispatcher: ...I'll be the one to walk you through the operations of the One Way Express.
 Dispatcher: I'll have you know, this train gets many a visitor--kind and...not so kind.
 Dispatcher: Looks like we got ourselves here a nefarious, no-good, train-robbin' bandit.
-*Bandit throws dynamite stick at train
+*Bandit throws dynamite stick at train*
 Dispatcher: Incomin' projectiles! Hold the line there, partner!
 Dispatcher: Now don't worry, follow my instructions and we'll get out of this all right.
-Dispatcher: Imma need you to focus up here and *flex* your "Mouse" muscle on top of that bandit.
+Dispatcher: Imma need you to focus up here and *flex your "Mouse" muscle on top of that bandit.
 Dispatcher: Good, nice and steady now. Once yer ready, *flex* your "Spacebar" button.
 *Waits till player kills bandit* (Players can't shoot until this line)
 Dispatcher: KABOOM! Nice shot there, Operator!
