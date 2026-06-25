@@ -121,7 +121,7 @@ Dispatcher: Two birds with one stone...err...cannon ball.
 ### Depot Zone 1 - Depot Zone 2 End
 ## Depot Zone 2 - Depot Zone 3
 *Trigger-Happy Tyson Wanted Poster Shows*
-Dispatcher: *gulp* D-did you see that? That's Trigger-Happy T-t-Tyson...
+Dispatcher: *gulp* D-did you see that? That's Trigger-Happy T-T-Tyson...
 Dispatcher: He has nothin' to lose... He's just in it for the love of the game.
 Dispatcher: Even worse? It seems like he united the Blind Bandits and the Vultures.
 Dispatcher: Their cause? To wreck havoc. Looks like it's you, me, and th-
@@ -190,7 +190,7 @@ Dispatcher: "Only One Button," you ask? Don't worry, we do things a li'l differe
 Dispatcher: Walk toward it, and *flex* your "Spacebar" button to take back control of the One Way Express.
 ## If player encounters fork for the first time:
 Dispatcher: Quick, there's a railroad switch!
-Dispatcher: Use your cannon to shoot the left or right arrows, now!
+Dispatcher: Use your cannon to shoot the arrow now, and switch tracks!
 Dispatcher: Unless, you want the One Way Express to be the No Way Express, of course.
 ## If player encounters Depot Zone for the first time:
 Dispatcher: Looks like yer approaching a Depot Zone!
