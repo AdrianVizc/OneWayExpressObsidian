@@ -53,8 +53,8 @@ One-Eyed Billy: Well, well, well, what do we have here now…?
 Dispatcher: One-Eyed Billy?! How'd you get control over this line?
 One-Eyed Billy: The One Way Express is now a-property of the Blind Bandits!
 One-Eyed Billy: I think I'll name it...the One-Eyed Express!
-One-Eyed Billy: Buddy, you don’t know the definition of a terrible idea...but you’re about to..
 Dispatcher: Now that's just a terrible idea...
+One-Eyed Billy: Buddy, you don’t know the definition of a terrible idea...but you’re about to..
 One-Eyed Billy: Alright, you Blind Bandits, go on… get 'em and don’t be scared to get them gloves dirty now! * chortles *
 Dispatcher: Let 'em try, they won't see it comin'.
 
@@ -80,25 +80,32 @@ One-Eyed Billy: Right in my blind spot! well.. one of them anyways…
 *One-Eyed Billy Wanted Poster Shows*
 Dispatcher: Uh oh. You done entered One-Eyed Billy's territory.
 Dispatcher: He's the leader of the Blind Bandits, a notorious gang of train ro-
-One-Eyed Billy: YEEEEEHAWWWW!
+One-Eyed Billy: Well, well, well, what do we have here now…?
 Dispatcher: One-Eyed Billy?! How'd you get control over this line?
 One-Eyed Billy: The One Way Express is now property of the Blind Bandits!
 One-Eyed Billy: I think I'll name it...the One-Eyed Express!
 Dispatcher: Now that's just a terrible idea...
-One-Eyed Billy: Blind Bandits, get 'em and all the cargo aboard! YEEHAW!
+One-Eyed Billy: Buddy, you don’t know the definition of a terrible idea...but you’re about to..
+One-Eyed Billy: Alright, you Blind Bandits, go on… get 'em and don’t be scared to get them gloves dirty now! * chortles *
 Dispatcher: Let 'em try, they won't see it comin'.
 
 When a hole opens up:
-One-Eyed Billy: More! More! More!
-One-Eyed Billy: Don't do too much damage! This train'll be mine soon!
-One-Eyed Billy: Slow down, boys!
+One-Eyed Billy: That’s what I’m talking about boys… GET IN THERE!
+One-Eyed Billy: * Amused Laugh *
+One-Eyed Billy: * Devious Laugh *
+One-Eyed Billy: * Tickled Giggle *  
+One-Eyed Billy: Hold on boys... not too much damage now! This train’ll be mine- I mean ours soon!  
+One-Eyed Billy: Finish this thing boys.  
 One-Eyed Billy: Get 'er done!
 
 When an enemy dies:
-One-Eyed Billy: That's just a crime against blind folk...
-One-Eyed Billy: One-Eyed Willy, NOOOOOO!!!!
-One-Eyed Billy: I didn't see that one comin'...
-One-Eyed Billy: Right in my blind spot!
+One-Eyed Billy: Crimes against blind folk are strictly prohibited by law! 
+One-Eyed Billy: MY BROTHER! NOO- Wait that ain’t him..
+One-Eyed Billy: MY BROTHER! FOR REAL THIS TIME-false alarm.
+One-Eyed Billy: NOO THAT REALLY WAS MY BROTHER! I think..  
+One-Eyed Billy: One-Eyed Willy, NOOOOOO!!!!  
+One-Eyed Billy: oopsI didn't see that one a-comin'...  
+One-Eyed Billy: Right in my blind spot! well.. one of them anyways…
 ### Depot Zone 0 - Depot Zone 1 End
 ## Depot Zone 1 - Depot Zone 2
 *Villainous Vulturous Wanted Poster Shows*
