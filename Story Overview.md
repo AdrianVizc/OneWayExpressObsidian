@@ -142,25 +142,26 @@ Dispatcher: Their cause? To wreck havoc. Looks like it's you, me, and th-
 Trigger-Happy Tyson: YEEEHAAWWWWEEEEEEE! I'm Trigger-Happy Tyson!
 Dispatcher: Oh, well, hello there. I'm the dispatcher of the One Way Express.
 Trigger-Happy Tyson: The "What Way" what?
-One-Eyed Billy: The One Way Express, ya dunce. I can't believe I'm teaming up with a guy like this.
-One-Eyed Billy: What says you, Villainous Vulturious?
+One-Eyed Billy: The One Way Express, ya dunce. I can't believe I'm working with this guy eugh… that.. Just look at him.. sitting there.. all gross..all hill billy.
+One-Eyed Billy: Anyway- what says you, Villainous Vulturious?
 Villainous Vulturious: ... (play cricket noise)
 Trigger-Happy Tyson: Well put! We need more people like Villainous Vulturious out here.
-One-Eyed Billy: Since when was I the sensible one... The things you do for money.
+One-Eyed Billy: Since when was I the sensible one... the things I've done for money… and boy have I done THINGS for money..
 Dispatcher: Y'know, Operator? I'm startin' to feelin bad for One-Eyed Billy...
 
 When a hole opens up:
 Trigger-Happy Tyson: Now, that's what I call damage!
 One-Eyed Billy: Might be blind in one eye, but I see my goal in sight!
 Trigger-Happy Tyson: YEEEHAWEEE!! Was that hole supposed to be there?
-One-Eyed Billy: YEEEHAWW!
+One-Eyed Billy: *Hearty Chortle*!
 
 When an enemy dies:
 Trigger-Happy Tyson: Can someone move that guy outta the way?!
 One-Eyed Billy: I will avenge you, One-Eyed Tilly!
 Trigger-Happy Tyson: I think one of yer vultures hit my guy!
 Trigger-Happy Tyson: Now, no one told me they'd have a cannon!
-One-Eyed Billy: If I lose one more eye... Well, I'd be blind.
+One-Eyed Billy: If I lost one more eye... Well, I'd be blind… Blind Eyed Billy.. Heh.. I think I like that one.
+One-Eyed Billy: One less mouth to feed.. Heh.. I mean Oh no….he died…
 ### Depot Zone 2 - Depot Zone 3 End
 ## Depot Zone 3 - End of Game
 *Newspaper clipping of the bridge blowing up*
@@ -180,16 +181,16 @@ Dispatcher: Thanks for riding...the One Way Express.
 
 When a hole opens up:
 Trigger-Happy Tyson: Now, that's what I call damage!
-One-Eyed Billy: Might be blind in one eye, but I see my goal in sight!
+One-Eyed Billy: Thats what I’m talkin'  bout!
 Trigger-Happy Tyson: YEEEHAWEEE!! Was that hole supposed to be there?
-One-Eyed Billy: YEEEHAWW!
 
 When an enemy dies:
 Trigger-Happy Tyson: Can someone move that guy outta the way?!
-One-Eyed Billy: I will avenge you, One-Eyed Tilly!
 Trigger-Happy Tyson: I think one of yer vultures hit my guy!
 Trigger-Happy Tyson: Now, no one told me they'd have a cannon!
-One-Eyed Billy: If I lose one more eye... Well, I'd be blind.
+One-Eyed Billy: If I lose one more eye... Well, EYE’d be blind.
+One-Eyed Billy: EYE see what you did there.. heh.. Killed that guy
+One-Eyed Billy: YOU BASTARDS!
 *Newspaper clipping of suspended operations of the One Way Express*
 ### Depot Zone 3 - End of Game End
 ## If player enters repair room for the first time (if no tutorial):
